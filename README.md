@@ -14,12 +14,12 @@ solution.
 
 Have fun coding it and please don't forget to vote and rank this kata! :-)
 
-|Input int start, int end       |       Output int |
-|_______________________________|__________________|
-|(1,4)                          |       4          |
-|(1,9)                          |       8          |
-|(4,17)                         |       12         |
-|(-10, -1)
+| Input int start, int end | Output int |
+|--------------------------|------------|
+| (1,4)                    | 4          |
+| (1,9)                    | 8          |
+| (4,17)                   | 12         |
+| (-1, -10)                | 7          |
 
 - Classname: DontGiveMeFive
 - Method: dontGiveMeFive
