@@ -19,7 +19,9 @@ Have fun coding it and please don't forget to vote and rank this kata! :-)
 | (1,4)                    | 4          |
 | (1,9)                    | 8          |
 | (4,17)                   | 12         |
-| (-1, -10)                | 7          |
+| (-10, -1)                | 9          |
+| (-20,-1)                 | 17         |
+
 
 - Classname: DontGiveMeFive
 - Method: dontGiveMeFive
