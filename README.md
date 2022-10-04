@@ -1,7 +1,8 @@
+# Don't give me five!
 In this kata you get the start number and the end number of a region and should return the count of all numbers 
 except numbers with a 5 in it. The start and the end number are both inclusive!
 
-Examples:
+## Examples:
 
 1,9 -> 1,2,3,4,6,7,8,9 -> Result 8
 4,17 -> 4,6,7,8,9,10,11,12,13,14,16,17 -> Result 12
@@ -13,12 +14,12 @@ solution.
 
 Have fun coding it and please don't forget to vote and rank this kata! :-)
 
-Input int start, int end              Output int
-(1,9)                                 8
-(4,17)                                12
+## Input int start, int end              Output int
+(1,9)                                    8
+(4,17)                                   12
 
 Classname: DontGiveMeFive
-Method: ontGiveMeFive
+Method: dontGiveMeFive
 
 
 
