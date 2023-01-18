@@ -23,6 +23,7 @@ Have fun coding it and please don't forget to vote and rank this kata! :-)
 | (4,17)                   | 12         |
 | (-10, -1)                | 9          |
 | (-20,-1)                 | 17         |
+| (49,51)                  | 1          |
 
 
 - Classname: DontGiveMeFive

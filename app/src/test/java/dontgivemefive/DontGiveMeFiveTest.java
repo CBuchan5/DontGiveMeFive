@@ -30,6 +30,12 @@ public class DontGiveMeFiveTest {
         DontGiveMeFive neverGiveMeFive = new DontGiveMeFive();
         assertEquals(17, neverGiveMeFive.dontGiveMeFive(-20,-1));
     }
+    @Test
+    public void givenARangeBetween49And51DontGiveMeFiveCountToBe1(){
+        DontGiveMeFive neverGiveMeFive = new DontGiveMeFive();
+        assertEquals(1, neverGiveMeFive.dontGiveMeFive(49,51));
+    }
+
 }
 
 
